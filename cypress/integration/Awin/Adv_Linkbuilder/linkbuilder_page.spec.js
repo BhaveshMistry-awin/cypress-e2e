@@ -7,7 +7,7 @@ describe('Advertiser is able to access and use Linkbuilder UI', () => {
         cy.get('#email').clear();
         cy.get('#email').type('bhavesh.mistry@awin.com');
         cy.get('#password').clear();
-        cy.get('#password').type('Sayan18december');
+        cy.get('#password').type('xxxxxx123');
         cy.get('.content').click();
       })
     it("Advertiser is able to access Linkbuilder UI succesfully", () => {
