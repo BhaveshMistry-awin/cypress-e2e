@@ -1,0 +1,4 @@
+{
+    "experimentalStudio": true,
+    "blockHosts": ["*google-analytics.com", "fonts.googleapis.com", "*cloud.typography.com"]
+}
